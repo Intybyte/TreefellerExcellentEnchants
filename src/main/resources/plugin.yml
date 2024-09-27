@@ -1,0 +1,6 @@
+name: Treefeller
+version: '1.0.0'
+main: me.vaan.treefeller.TreefellerEnchantPlugin
+api-version: '1.21'
+depend: ["ExcellentEnchants"]
+author: Vaan1310
