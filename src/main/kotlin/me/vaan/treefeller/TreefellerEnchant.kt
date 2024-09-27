@@ -25,7 +25,7 @@ class TreefellerEnchant(plugin: EnchantsPlugin, file: File) :
     BlockBreakEnchant {
 
     companion object {
-        val ID: java.lang.String = java.lang.String("tree_capitator")
+        val ID: java.lang.String = java.lang.String("treefeller")
 
         @JvmStatic
         fun definition(): EnchantDefinition {
